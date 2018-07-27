@@ -1,0 +1,30 @@
+=pod
+
+=encoding UTF-8
+
+=head1 NAME
+
+Acme::JTM::Experiment - Testing Perl Constructs on CPAN Testers
+
+=head1 VERSION
+
+version 1.182080
+
+=head1 DESCRIPTION
+
+This module is a place where I (Joelle) try
+different Perl constructrs that may have compatibility issues.  By
+trying it with this module, I can test this across CPAN Testers.
+
+=head1 AUTHOR
+
+Joelle Maslak <jmaslak@antelope.net>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2018 by Joelle Maslak.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+=cut

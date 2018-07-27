@@ -15,3 +15,5 @@ use Acme::JTM::Experiment;
 
 pass("Successfully loaded Acme::JTM::Experiment");
 
+done_testing;
+
