@@ -1,5 +1,7 @@
 {{$NEXT}}
+ * Get rid of "use integer" from Net::Netmask bug test
 
 1.182080  2018-07-27 10:07:40-06:00 America/Denver
  * Initial version
+ * Test Net::Netmask bug
 

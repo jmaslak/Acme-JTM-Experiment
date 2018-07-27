@@ -18,7 +18,7 @@ pass("Successfully loaded Acme::JTM::Experiment");
 
 # EXPERIMENT
 
-use integer;
+# use integer;
 
 sub imask {
     return ( 2**32 - ( 2**( 32 - $_[0] ) ) );
